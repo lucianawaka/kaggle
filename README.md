@@ -3,4 +3,4 @@
 ## Basics with ML 
 
 ### Titanic - Machine Learning from Disaster
-(Link to Titanic Competition)[https://www.kaggle.com/competitions/titanic]
+[Link to Titanic Competition](https://www.kaggle.com/competitions/titanic)
